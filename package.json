@@ -87,7 +87,7 @@
     "@putout/cli-validate-args": "^1.0.1",
     "@putout/plugin-cloudcmd": "^1.2.0",
     "apart": "^2.0.0",
-    "chalk": "^4.0.0",
+    "chalk": "^5.0.1",
     "compression": "^1.7.4",
     "console-io": "^13.0.0",
     "copymitter": "^6.0.0",
